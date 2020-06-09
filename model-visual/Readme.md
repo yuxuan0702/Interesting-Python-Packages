@@ -25,3 +25,7 @@ PDP 主要探讨的是变量的边际变化：即这个变量变动一个单位�
 Shap 是博弈论的一个概念，主要是值参与游戏的每一个人对结论有什么贡献。利用shap 可以可视化每一个样本的预测结果中每一个变量有什么样的贡献。
 - Force Plot : 单条记录下每个变量对每个预测值的影响
 - Summary Plot : 整个数据集每个变量对每个预测值的影响
+
+## Refer Link
+https://zhuanlan.zhihu.com/p/147091803
+https://www.kaggle.com/learn/machine-learning-explainability
